@@ -186,6 +186,7 @@ header .home .container .home_content .home_info .home_btn a img {
   font-weight: 400;
   font-size: 90px;
   line-height: 112px;
+  margin-bottom: 100px;
   color: #ffffff;
 }
 .services .container .services_cards .services_card {
